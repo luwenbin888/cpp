@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507433029 source:e:\project\cpp\chapter1.cc
+	<iostream>
+	"namespace.h"
+
+1507432418 e:\project\cpp\namespace.h
+
