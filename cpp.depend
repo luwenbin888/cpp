@@ -1,7 +1,11 @@
 # depslib dependency file v1.0
-1507433029 source:e:\project\cpp\chapter1.cc
+1507434879 source:e:\project\cpp\chapter1.cc
 	<iostream>
+	<array>
 	"namespace.h"
 
 1507432418 e:\project\cpp\namespace.h
+
+1507025101 source:e:\project\cpp\main.cpp
+	<iostream>
 
